@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap-libs/sdk-v2",
+  "name": "@trotheriumswap-libs/sdk-v2",
   "license": "MIT",
   "version": "2.2.0",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/trotherium/pancakeswap-sdk-v2.git",
   "keywords": [
     "pancakeswap",
     "ethereum"
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "@trotheriumswap-libs/trotherium-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
