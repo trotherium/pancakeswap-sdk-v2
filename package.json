@@ -2,7 +2,7 @@
   "name": "@trotheriumswap-libs/sdk-v2",
   "license": "MIT",
   "version": "2.2.0",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of Trotheriumswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
